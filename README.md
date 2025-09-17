@@ -5,14 +5,23 @@
 </head> 
 <body> 
 <font face="Arial, sans-serif"> 
-<div> 
+<div>
+  <header>
   <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
 Welcome to Harbor Light Community Center</center> 
+  </header>
 </div> 
 <div> 
-Home | About | Services | Events | Contact 
-</div> 
+  <nav>
+    <ul>
+<li>Home</li>
+<li>About </li>
+<li>Services</li>
+<li>Event</li>
+<li>Contact </li>
+    </ul>
+</nav> 
 <div class="banner"> 
 <img src="https://edube.org/uploads/media/default/0001/04/decorative-banner.jpg" 
 alt="Decorative Banner"> 
