@@ -9,17 +9,17 @@
   <header>
   <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
-Welcome to Harbor Light Community Center</center> 
+    Welcome to Harbor Light Community Center</center> 
   </header>
 </div> 
 <div> 
   <nav>
     <ul>
-<li>Home</li>
-<li>About </li>
-<li>Services</li>
-<li>Event</li>
-<li>Contact </li>
+<li><a>Home</a></li>
+<li><a>About</a></li>
+<li><a>Services</a></li>
+<li><a>Event</a></li>
+<li><a>Contact</a></li>
     </ul>
 </nav> 
 <div class="banner"> 
