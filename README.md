@@ -8,7 +8,7 @@
   <header>
   <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
-  welcome to Harbor Light Community Center
+  <h1>welcome to Harbor Light Community Center</h1>
   </center> 
   </header>
   <nav>
