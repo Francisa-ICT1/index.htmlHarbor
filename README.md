@@ -5,22 +5,19 @@
 </head> 
 <body> 
 <font face="Arial, sans-serif"> 
-<div>
   <header>
   <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
   welcome to Harbor Light Community Center
   </center> 
   </header>
-</div> 
-<div> 
   <nav>
     <ul>
-<li><a href="">Home</a></li>
-<li><a href="">About</a></li>
-<li><a href="">Services</a></li>
-<li><a href="">Event</a></li>
-<li><a href="">Contact</a></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Event</a></li>
+<li><a href="#">Contact</a></li>
     </ul>
 </nav> 
 <div class="banner"> 
@@ -46,6 +43,7 @@ alt="Decorative Banner">
     <footer>
         <p>Contact Us: info@harborlights.com</p>
         <p>Have questions or want to get involved? Email us!</p>
+      <p></p>
     </footer>
   
 </font> 
