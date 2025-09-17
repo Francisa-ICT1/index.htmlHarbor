@@ -2,6 +2,7 @@
 <html> 
 <head> 
 <title>Harbor Light Community Center</title> 
+  
   <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
 Welcome to Harbor Light Community Center</center> 
