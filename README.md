@@ -1,17 +1,14 @@
 <!DOCTYPE html> 
 <html> 
 <head> 
-<title>Harbor Light Community Center</title> <br>
-  
-  <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
-Logo"> 
-Welcome to Harbor Light Community Center</center> 
-
+<title>Harbor Light Community Center</title>
 </head> 
 <body> 
 <font face="Arial, sans-serif"> 
 <div> 
-
+  <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
+Logo"> 
+Welcome to Harbor Light Community Center</center> 
 </div> 
 <div> 
 Home | About | Services | Events | Contact 
