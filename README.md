@@ -9,7 +9,8 @@
   <header>
   <center><img src="https://edube.org/uploads/media/default/0001/04/logo.jpg" alt="Center 
 Logo"> 
-  <h1></h1>welcome to Harbor Light Community Center</h1></center> 
+  welcome to Harbor Light Community Center
+  </center> 
   </header>
 </div> 
 <div> 
@@ -46,6 +47,7 @@ alt="Decorative Banner">
         <p>Contact Us: info@harborlights.com</p>
         <p>Have questions or want to get involved? Email us!</p>
     </footer>
+  
 </font> 
 </body> 
 </html>
